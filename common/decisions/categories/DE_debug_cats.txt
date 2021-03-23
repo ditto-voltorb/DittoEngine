@@ -1,0 +1,7 @@
+DE_debug = {
+	icon = generic
+	available = {
+		is_debug = yes
+	}
+	visible_when_empty = yes
+}

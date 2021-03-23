@@ -4,3 +4,4 @@ tags={
 }
 name="Ditto Engine"
 supported_version="1.10.*"
+replace_path="common/wargoals"
